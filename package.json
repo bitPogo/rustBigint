@@ -10,6 +10,7 @@
     "./pkg/rust_bigint_bg.js",
     "./pkg/rust_bigint.d.ts"
   ],
+  "main": "./pkg/rust_bigint.js",
   "module": "./pkg/rust_bigint.js",
   "types": "./pkg/rust_bigint.d.ts",
   "sideEffects": false
