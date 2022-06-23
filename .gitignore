@@ -29,6 +29,8 @@ example-android-app/
 # kotlin-js
 kotlin-js-store/
 
+target/
+
 # Editors
 *.suo
 *.ntvs*

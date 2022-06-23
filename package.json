@@ -1,0 +1,16 @@
+{
+  "name": "rust-bigint",
+  "collaborators": [
+    "Matthias Geisler <bitpogo@antibytes.tech>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "./pkg/rust_bigint_bg.wasm",
+    "./pkg/rust_bigint.js",
+    "./pkg/rust_bigint_bg.js",
+    "./pkg/rust_bigint.d.ts"
+  ],
+  "module": "./pkg/rust_bigint.js",
+  "types": "./pkg/rust_bigint.d.ts",
+  "sideEffects": false
+}
